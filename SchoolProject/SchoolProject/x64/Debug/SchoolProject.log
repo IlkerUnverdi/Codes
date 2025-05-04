@@ -1,0 +1,19 @@
+﻿  Recommender.cpp
+C:\Users\İlker\source\repos\SchoolProject\SchoolProject\Recommender.cpp(53,32): warning C4244: 'başlatılıyor': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\İlker\source\repos\SchoolProject\SchoolProject\Recommender.cpp(53,32): warning C4244:         with
+C:\Users\İlker\source\repos\SchoolProject\SchoolProject\Recommender.cpp(53,32): warning C4244:         [
+C:\Users\İlker\source\repos\SchoolProject\SchoolProject\Recommender.cpp(53,32): warning C4244:             _Ty2=int
+C:\Users\İlker\source\repos\SchoolProject\SchoolProject\Recommender.cpp(53,32): warning C4244:         ]
+C:\Users\İlker\source\repos\SchoolProject\SchoolProject\Recommender.cpp(59,38): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\İlker\source\repos\SchoolProject\SchoolProject\Recommender.cpp(147,24): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\İlker\source\repos\SchoolProject\SchoolProject\Recommender.cpp(184,24): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244: 'başlatılıyor': 'const _Ty2' - '_Ty2' dönüşümü; veri kaybı olabilir
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         ]
+  SchoolProject.vcxproj -> C:\Users\İlker\source\repos\SchoolProject\x64\Debug\SchoolProject.exe
